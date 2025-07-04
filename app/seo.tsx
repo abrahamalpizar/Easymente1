@@ -2,8 +2,8 @@ import { Metadata } from 'next'
 import siteMetadata from '@/data/siteMetadata'
 
 interface PageSEOProps {
-  title: string
-  description?: string
+  title: EasyMente
+  description?: Terapia que te entiende
   image?: string
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   [key: string]: any
